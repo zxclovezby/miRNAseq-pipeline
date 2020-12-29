@@ -1,0 +1,12 @@
+# bash 01-qc.sh > 01-qc.out 2>01-qc.err
+# bash 01-qcStat.sh > 01-qcStat.out 2>01-qcStat.err
+# bash 02-alignHST.sh > 02-alignHST.out 2>02-alignHST.err
+# bash 02-alignSummary.sh > 02-alignSummary.out 2>02-alignSummary.err
+# bash 03-assemblyStielncRNA.sh > 03-assemblyStielncRNA.out 2>03-assemblyStielncRNA.err
+# bash 04-ballgown.sh > 04-ballgown.out 2>04-ballgown.err
+# bash 04a-dgelncRNA_Stie.sh > 04a-dgelncRNA_Stie.out 2>04a-dgelncRNA_Stie.err
+# bash 05-BGplot.sh > 05-BGplot.out 2>05-BGplot.err
+# bash 06-interactionBlast.sh > 06-interactionBlast.out 2>06-interactionBlast.err
+# bash 07-GO_KEGG-lncRNA.sh > 07-GO_KEGG-lncRNA.out 2>07-GO_KEGG-lncRNA.err
+# bash 08-resultFiles.sh > 08-resultFiles.out 2>08-resultFiles.err
+# bash 09-makeReport.sh > 09-makeReport.out 2>09-makeReport.err
